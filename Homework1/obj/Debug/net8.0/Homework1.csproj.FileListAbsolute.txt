@@ -1,0 +1,14 @@
+C:\Users\nicho\Downloads\CIDM2315\Homework1\bin\Debug\net8.0\Homework1.exe
+C:\Users\nicho\Downloads\CIDM2315\Homework1\bin\Debug\net8.0\Homework1.deps.json
+C:\Users\nicho\Downloads\CIDM2315\Homework1\bin\Debug\net8.0\Homework1.runtimeconfig.json
+C:\Users\nicho\Downloads\CIDM2315\Homework1\bin\Debug\net8.0\Homework1.dll
+C:\Users\nicho\Downloads\CIDM2315\Homework1\bin\Debug\net8.0\Homework1.pdb
+C:\Users\nicho\Downloads\CIDM2315\Homework1\obj\Debug\net8.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Downloads\CIDM2315\Homework1\obj\Debug\net8.0\Homework1.AssemblyInfoInputs.cache
+C:\Users\nicho\Downloads\CIDM2315\Homework1\obj\Debug\net8.0\Homework1.AssemblyInfo.cs
+C:\Users\nicho\Downloads\CIDM2315\Homework1\obj\Debug\net8.0\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Downloads\CIDM2315\Homework1\obj\Debug\net8.0\Homework1.dll
+C:\Users\nicho\Downloads\CIDM2315\Homework1\obj\Debug\net8.0\refint\Homework1.dll
+C:\Users\nicho\Downloads\CIDM2315\Homework1\obj\Debug\net8.0\Homework1.pdb
+C:\Users\nicho\Downloads\CIDM2315\Homework1\obj\Debug\net8.0\Homework1.genruntimeconfig.cache
+C:\Users\nicho\Downloads\CIDM2315\Homework1\obj\Debug\net8.0\ref\Homework1.dll
