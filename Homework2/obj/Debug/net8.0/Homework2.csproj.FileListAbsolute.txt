@@ -1,0 +1,15 @@
+C:\Users\nicho\Downloads\CIDM2315\Homework2\bin\Debug\net8.0\Homework2.exe
+C:\Users\nicho\Downloads\CIDM2315\Homework2\bin\Debug\net8.0\Homework2.deps.json
+C:\Users\nicho\Downloads\CIDM2315\Homework2\bin\Debug\net8.0\Homework2.runtimeconfig.json
+C:\Users\nicho\Downloads\CIDM2315\Homework2\bin\Debug\net8.0\Homework2.dll
+C:\Users\nicho\Downloads\CIDM2315\Homework2\bin\Debug\net8.0\Homework2.pdb
+C:\Users\nicho\Downloads\CIDM2315\Homework2\obj\Debug\net8.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Downloads\CIDM2315\Homework2\obj\Debug\net8.0\Homework2.AssemblyInfoInputs.cache
+C:\Users\nicho\Downloads\CIDM2315\Homework2\obj\Debug\net8.0\Homework2.AssemblyInfo.cs
+C:\Users\nicho\Downloads\CIDM2315\Homework2\obj\Debug\net8.0\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Downloads\CIDM2315\Homework2\obj\Debug\net8.0\Homework2.sourcelink.json
+C:\Users\nicho\Downloads\CIDM2315\Homework2\obj\Debug\net8.0\Homework2.dll
+C:\Users\nicho\Downloads\CIDM2315\Homework2\obj\Debug\net8.0\refint\Homework2.dll
+C:\Users\nicho\Downloads\CIDM2315\Homework2\obj\Debug\net8.0\Homework2.pdb
+C:\Users\nicho\Downloads\CIDM2315\Homework2\obj\Debug\net8.0\Homework2.genruntimeconfig.cache
+C:\Users\nicho\Downloads\CIDM2315\Homework2\obj\Debug\net8.0\ref\Homework2.dll
